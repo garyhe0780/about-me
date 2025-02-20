@@ -15,19 +15,23 @@ I’m a Full-Stack Engineer who genuinely enjoys building things that work well 
   - Flutter and React Native for cross-platform apps  
   - Experience publishing apps to Google Play and Apple App Store  
   - Not much native iOS/Android experience
+
 **Frontend**:  
   - React.js (and similar tools)  
   - JavaScript, HTML, CSS  
-  - Making websites run faster  
+  - Making websites run faster
+
 **Backend**:  
   - Node.js for APIs  
   - A little Golang (still learning)  
-  - RESTful APIs  
+  - RESTful APIs
+
 **Cloud & Deployment**:  
   - AWS  
   - Azure  
   - Vercel  
-  - Render.io  
-- **Other Stuff**:  
+  - Render.io
+ 
+**Other Stuff**:  
   - Good communicator 
 ---
