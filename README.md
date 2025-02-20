@@ -32,6 +32,7 @@ I’m a Full-Stack Engineer with ten years experience who genuinely enjoys build
   - Vercel  
   - Render.io
  
-**Other Stuff**:  
-  - Good communicator 
+**Other Stuff**:
+  - Good communicator
+  - Have a good taste about code and design.
 ---
