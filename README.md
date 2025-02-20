@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-I’m a Full-Stack Engineer who genuinely enjoys building things that work well and look good. I’ve built serveral cross-platform apps and gotten them live on Google Play and the Apple App Store,  Flutter is my first choice for building cross-platform apps, I don’t have much experience with native iOS or Android development though. I also bring a strong frontend background with React.js, so I’m good at making app interfaces fast and user-friendly. I’ve built APIs with Node.js and dabbled a bit in Go, though I’m not an expert there yet.
+I’m a Full-Stack Engineer with ten years experience who genuinely enjoys building things that work well and look good. I’ve built serveral cross-platform apps and gotten them live on Google Play and the Apple App Store,  Flutter is my first choice for building cross-platform apps, I don’t have much experience with native iOS or Android development though. I also bring a strong frontend background with React.js, so I’m good at making app interfaces fast and user-friendly. I’ve built APIs with Node.js and dabbled a bit in Go, though I’m not an expert there yet.
 
 ---
 
